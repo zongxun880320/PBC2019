@@ -54,6 +54,3 @@ class news():
 news = news()
 final = news.get_news()
 print(final)
-
-
-print("HI")
